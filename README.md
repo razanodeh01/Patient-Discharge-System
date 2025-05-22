@@ -1,16 +1,23 @@
-# COMP2310-OOP: Medical System
+# 🏥 Patient Discharge Eligibility System (OOP)
 
-## 📃 Overview
-This repository hosts the code for a medical system designed to determine a patient's eligibility for discharge based on their temperature readings. The system is developed using object-oriented programming principles to ensure modularity and reusability of code.
+## 📄 About the Project
 
-## ✨ System Features
-- **Temperature Assessment:** Analyzes patient temperature readings to make discharge decisions.
-- **Object-Oriented Design:** Leverages OOP concepts for structured and maintainable code.
-- **User-Friendly Interface:** Provides an easy-to-navigate interface for healthcare professionals to input and review data.
+A simple medical system that checks a patient’s eligibility for discharge based on temperature readings, built using object-oriented programming for clean and reusable design.
 
-## ⬇️ Installation
-Instructions to clone and set up the project:
+## 🧠 Features
 
-```bash
-git clone https://github.com/yourusername/COMP2310-OOP.git
-cd COMP2310-OOP
+- Object-Oriented Design (encapsulation, modularity).
+- Input handling for patient temperature data.
+- Logic for discharge eligibility based on thresholds.
+- Clear class-based structure for extensibility.
+
+
+## 🧰 Technologies Used
+
+- Language: Java.
+- Concepts: OOP (classes, objects, encapsulation)
+
+
+## 🖥️ Sample Output
+Enter patient temperature: 37.2
+✅ Patient is eligible for discharge.
