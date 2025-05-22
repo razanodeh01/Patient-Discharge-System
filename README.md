@@ -20,4 +20,5 @@ A simple medical system that checks a patient’s eligibility for discharge base
 
 ## 🖥️ Sample Output
 Enter patient temperature: 37.2
+
 ✅ Patient is eligible for discharge.
